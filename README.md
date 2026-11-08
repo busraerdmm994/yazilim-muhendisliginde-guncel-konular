@@ -2,7 +2,7 @@
 
 Fırat Üniversitesi Teknoloji Fakültesi, Yazılım Mühendisliği. Bu repo, Yazılım Mühendisliğinde Güncel Konular dersinin çalışmalarını içerir.
 
-**Hazırlayan:** Büşra Erdem
+**Hazırlayan:** Büşra Erdem 230541022
 
 ## Safety 4.0 Bootcamp: Lab Föyleri
 
