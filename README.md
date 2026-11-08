@@ -11,7 +11,7 @@ Seçilen makine: **Hürmaksan Otomasyon Makina — Robotlu MIG/MAG Kaynak Hücre
 | Dosya | İçerik |
 | --- | --- |
 | [safety40-lab-foyleri/robotlu-kaynak-hucresi-lab-1-7.md](safety40-lab-foyleri/robotlu-kaynak-hucresi-lab-1-7.md) | 7 lab föyünün tamamının cevapları |
-| [safety40-lab-foyleri/Lab5-6-7_Robotlu_Kaynak_Hucresi_Busra_Erdem.pdf](safety40-lab-foyleri/Lab5-6-7_Robotlu_Kaynak_Hucresi_Busra_Erdem.pdf) | Lab 5 (SBOM/CVE/Patch), Lab 6 (CRA Incident), Lab 7 (AI Safety): föy formatında doldurulmuş PDF |
+| [safety40-lab-foyleri/Safety40_Lab_Foyleri_1-7_Robotlu_Kaynak_Hucresi_Busra_Erdem.pdf](safety40-lab-foyleri/Safety40_Lab_Foyleri_1-7_Robotlu_Kaynak_Hucresi_Busra_Erdem.pdf) | Kapak + Lab 1–7: föy formatında doldurulmuş 8 sayfalık PDF |
 
 | Lab | Konu | Çıktı |
 | --- | --- | --- |
